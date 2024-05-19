@@ -1,4 +1,4 @@
-# advanced-programming
+# Operating System
 Shortest Remaining Time Scheduling Algorithm(SRT)
 Shortest Remaining Time (SRT) scheduling algorithm, is a CPU scheduling algorithm used in operating systems. It is a preemptive version of the Shortest Job Next (SJN) algorithm, also known as Shortest Job First (SJF).
 
